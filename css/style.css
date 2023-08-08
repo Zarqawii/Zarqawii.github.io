@@ -583,8 +583,9 @@ footer .copyright{
              .home-img img {
                width: 64vw;
              }
-             .flex-1 , .about-me-img {
-               width: 30vw;
+             .flex-1 .about-me-img {
+              width : 70vw;
+              margin-top: 4rem;
              }
 .home 
 {
