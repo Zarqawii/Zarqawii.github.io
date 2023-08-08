@@ -220,7 +220,7 @@ section{
     padding:6rem 0;
 }
 section.about .about-me-img{
-    height:450px;
+    width: 35vw;
 }
 section.about h1{
     margin-bottom: 1rem;
